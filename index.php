@@ -23,7 +23,6 @@ $mail->Host       = "smtp.gmail.com";
 $mail->Username   = "<paste your gmail account here>";
 $mail->Password   = "<paste Google password or app password here>";
 
-
 $success = "";
 $error = "";
 $name = $message = $email = "";
